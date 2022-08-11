@@ -1,0 +1,236 @@
+.header{
+	font-size: 30px;
+	padding: 200px 0px 200px 0px;
+	text-align: center;
+	margin: 0px;
+}
+.header h1{
+	color: white;
+	margin: 10px;
+}
+body{
+	margin: 0px;
+}
+header{
+	background-image: url('mrmorale.jpg');
+	background-size: 100%;
+	background-position: relative;
+}
+/*About K*/
+.aboutk{
+	background-color: #9A9A9A;
+}
+.aboutk h2{
+	text-align: center;
+	padding-top: 30px;
+	color: white;
+}
+.aboutk img{
+	width: 100%;
+	color: white;
+}
+
+.aboutk .row{
+	padding: 30px;
+}
+.aboutk{
+	margin-top: 50px;
+}
+.aboutk p{
+	color: #E4E4E4;
+}
+.newalbum img{
+	height: 20%;
+	width: 20%;
+	color: white;
+/*	margin-top: 100px;
+*/}
+
+.newalbum .row{
+	padding: 30px;
+}
+.newalbum{
+	text-align: center;
+	margin-top: 78px;
+}
+.newalbum a:hover{
+/*	color: transparent;
+*/	opacity: 0.8;
+
+}
+.musicplayers img{
+	height: 3.5%;
+	width: 3.5%;
+	margin-bottom: 30px;
+}
+.musicplayers{
+	text-align: center;
+}
+.musicplayers a:hover{
+	opacity: 0.8;
+}
+
+/*height:calc(var(--content-height) + var(--global-nav-collective-height));*/
+
+/*Discography*/
+
+.discography-section h2{
+	text-decoration: bold;
+}
+.discography-section a{
+	text-decoration: none;
+}
+.discography h2,.discography2 h2,.discography3 h2{
+	padding-top: 35px;
+}
+.discography img{
+	height: 470px;
+	width: 430px;
+	padding-bottom: 50px;
+}
+.discography{
+	columns: 2;
+	margin-top: 20px;
+	margin-bottom: 0px;
+
+}
+.overly-dedicated{
+	text-align: center;
+	background-color:#EFEFEF;
+}
+.overly-dedicated h2{
+	margin-bottom: 0px;
+}
+.LINK{
+	display: block;
+}
+body h2{
+	text-decoration: none;
+	color: black;
+}
+.buy{
+	margin-left: 30px;
+	margin-bottom: 0px;
+}
+.overly-dedicated-learnmore-section{
+	padding-bottom: 20px;
+	cursor: pointer;
+	position: relative;
+	padding-top: 5px;
+}
+.learnmore{
+	margin-right: 20px;
+	margin-bottom: 0px;
+}
+.section80{
+	text-align: center;
+	margin-top: 20px;
+	background-color: #F8F8F8;
+}
+.buy2{
+	margin-left: 30px;
+}
+.section80-learnmore-section{
+	cursor: pointer;
+	padding-bottom: 20px;
+	padding-top: 5px;
+}
+.section80 h2{
+	margin-bottom: 0px;
+}
+.learnmore2{
+	margin-right: 20px;
+}
+.discography2 img{
+	height:470px ;
+	width: 430px;
+	padding-bottom: 50px;
+}	
+.discography2{
+	columns: 2;
+}
+.goodkid{
+	text-align: center;
+	background-color: #F8F8F8;
+}
+.buy3{
+	margin-left: 30px;
+}
+.goodkid-learnmore-section{
+	cursor: pointer;
+	padding-bottom: 20px;
+	padding-top: 5px;
+}
+.goodkid h2{
+	margin-bottom: 0px;
+}
+.learnmore3{
+	margin-right: 20px;
+}
+.tpab{
+	text-align: center;
+	margin-top: 20px;
+	background-color: #EFEFEF;
+}
+.buy4{
+	margin-left: 30px;
+}
+.tpab-learnmore-section{
+	cursor: pointer;
+	padding-bottom: 20px;
+	padding-top: 5px;
+}
+.tpab h2{
+	margin-bottom: 0px;
+}
+.learnmore4{
+	margin-right: 20px;
+}
+.discography3 img{
+	height:470px ;
+	width: 430px;
+	padding-bottom: 50px;
+}	
+.discography3{
+	columns: 2;
+}
+.untitled{
+	text-align: center;
+	background-color: #EFEFEF;
+}
+.buy5{
+	margin-left: 30px;
+}
+.untitled-learnmore-section{
+	cursor: pointer;
+	padding-bottom: 20px;
+	padding-top: 5px;
+}
+.untitled h2{
+	margin-bottom: 0px;
+}
+.learnmore5{
+	margin-right: 20px;
+}
+.damn{
+	text-align: center;
+	margin-top: 20px;
+	background-color: #F8F8F8;
+}
+.buy6{
+	margin-left: 30px;
+}
+.damn-learnmore-section{
+	cursor: pointer;
+	padding-bottom: 20px;
+	padding-top: 5px;
+}
+.damn h2{
+	margin-bottom: 0px;
+}
+.learnmore6{
+	margin-right: 20px;
+}
+h2{
+	cursor: pointer;
+}
